@@ -26,18 +26,17 @@ The analyis of the election shows that:
 
 	- The winner of the election was Diana Degette who received 73.8% of the votes and 85,213 votes. 
 
-### Challenge Overview
+### Overview of Election Audit:
+The congressional election including the countities shows where potential candidates may want to focus their campainging efforts based on the number of voters. 
+### Election-Audit Results:
 
-### Challenge Summary
+- There were 369,711 total votes cast in the election.
+	- Denver had 306,055 votes wich was 82.8% of votes in all counties
+	- Jefferson had 38,855 votes which was 10.5% of votes in all counties
+	- Arapahoe had 24,801 votes which was 6.7% of votes in all counties
+Denver had the largest number of votes.
 
-### Challenges and Difficulties Encountered
+### Election-Audit Summary:
 
-## Results
+The script used for this audit has potential. With some modifications, it can also be applied to other demographics such as age, employment status, marital status, and income. 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
